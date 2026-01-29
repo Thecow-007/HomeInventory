@@ -16,3 +16,7 @@ services:
     ports:
       - "27018:27017"
 ```
+
+## Run the project using Docker
+- in the projects root directory run `docker compose up -d`
+- Note that you have to have docker desktop running
